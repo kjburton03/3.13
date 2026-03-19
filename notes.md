@@ -5,3 +5,7 @@
         - commit for migrations
 
         - left off at support for rock view chapter . imported urls.py and nothing after that 
+
+3.19 -
+        - added fixtures for rocks and types
+        - committed 
