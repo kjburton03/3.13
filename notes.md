@@ -9,3 +9,7 @@
 3.19 -
         - added fixtures for rocks and types
         - committed 
+
+3.20 -
+        - fixed rock list still cant fix details
+        - idk
